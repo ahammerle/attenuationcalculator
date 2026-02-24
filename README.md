@@ -1,2 +1,2 @@
 # Attenuation Calculator
-This repo will consist of a calculator for determining the attenuation of waves in a specified material.
+This repo will consist of a calculator for determining the attenuation of waves in a specified material. I was inspired when considering the attenuation in shielding of a microwave oven compared to the attenuation of WiFi in human skin.

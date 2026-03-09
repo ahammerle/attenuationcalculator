@@ -7,3 +7,6 @@ epsilon = input('Enter permitivity (F/m): ');
 f = input('Enter frequency (Hz): ');
 d = input('Enter material thickness (m): ');
 
+alphaCalc =
+
+attdB = 20*log10(e)*alphaCalc*d;
